@@ -16,16 +16,6 @@ L'analyse d'affaire est introduit lors de la création du dossier de décision
     * La collecte des exigences, lorsque bien faite, va faire en sorte que la          qualité des projets va augmenter de maniere exponentielle. Le contraire va le    rendre pire.
 
 
-Risques de l'analyste : 
-
-* 
-
-
-
-
-
-
-## Divers
 
 
 
