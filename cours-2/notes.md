@@ -5,6 +5,15 @@ ON NE PARLE PAS DES COÛTS DANS LE PROJET ACCOR, SEULEMENT DES BÉNIFICES D'AFFA
 Lire sur [la chaîne de valeur de Porter](https://fr.wikipedia.org/wiki/Cha%C3%AEne_de_valeur)
 pour essayer de trouver le problème / opportunité d'affaire pour Accor
 
+Explorer la concurrence, leurs modèles d'affaires et les nouveautés offertes
+
+Explorer les décisions prises depuis par les hôtels Accor
+
+EN ANNEXE DU TRAVAIL : 
+- Chaîne de valeur de Porter 
+- Schéma d'analyse causale
+- (Force, Faiblesse, Objectifs, Menaces) FFOM 
+ 
 
 # Préparation du dossier de décision - Business Case 
 
@@ -50,9 +59,24 @@ Avec le manuel d'organisation de projet, on passe a 40% d'imprécision
 
 ### 1. Cristalliser les besoins et les motivations d'affaires et s'entendre
 
+Outils pour l'évaluation de l'opportunités : 
+
+- Porter et les différents processus d'affaire pour détecter les macro-processes
+- Analyse forces/faiblesses et opportunités/Menaces
+- Analyse des causes fondamentales (Pourquoi c'est comme ça)
+
 ### 2. Analyser les écarts "AS IS" vs "TO-BE"
 
+Si l'entreprise n'a pas d'objectifs, le projet doit en avoir un. Quelque chose à quoi se raccrocher. (voir SMART)
+
+Solutions : 
+
+- Processus
+- Règles d'affaires
+
 ### 3. Évaluer la faisabilité et recommander l'option la plus viable
+
+
 
 ### 4. Assembler le dossier de décision "Business Case"
 
