@@ -8,3 +8,5 @@
 
 * [Accor vs OTAs](https://rctom.hbs.org/submission/accorhotels-battling-against-online-travel-agents/)
 
+* [Reward programs comparator](https://thepointsguy.com/guide/best-hotel-loyalty-programs/)
+
