@@ -5,3 +5,6 @@
 * Booking process est bas côté rating
 * Certains points de housekeeping a retravailler
 * Beaucoup d'overdue reviews
+
+* [Accor vs OTAs](https://rctom.hbs.org/submission/accorhotels-battling-against-online-travel-agents/)
+
